@@ -21,7 +21,7 @@ Este projeto consiste em um quiz simples desenvolvido com JavaScript puro (Vanil
 ## Como executar o projeto
 
 1. Clone o repositório ou baixe os arquivos:
-```http
+```bash
 git clone <https://github.com/Donnerxd/quizz_js>
 ```
 2. Abra o arquivo `index.html` diretamente no navegador.
@@ -30,7 +30,7 @@ git clone <https://github.com/Donnerxd/quizz_js>
 
 ## Estrutura do projeto
 
-```http
+```bash
 quizz-js/
 ├── index.html
 ├── css
