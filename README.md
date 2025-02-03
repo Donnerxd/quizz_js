@@ -7,7 +7,7 @@ Este projeto consiste em um quiz simples desenvolvido com JavaScript puro (Vanil
 
 - Navegação entre as telas de quiz e resultados
 - Validação de respostas e exibição da pontuação ao final do quiz
-- Reinício do quiz com botão de rese
+- Reinício do quiz com botão de reset
 - Manipulações dinâmicas de elementos utilizando classes CSS
 
 
